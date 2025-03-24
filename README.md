@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kandukuri Charan</h1>
 <h3 align="center">Frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Jira Clone**
+- 🔭 I’m currently working on **The Student Voice**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Js && Node JS**
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **c2h4a1r2@gmail.com**
+- 📫 How to reach me **charan.kandukuri.527@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
